@@ -1,0 +1,23 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitesh61929/node-test.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Nitesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitesh61929/node-test/issues"
+  },
+  "homepage": "https://github.com/nitesh61929/node-test#readme"
+}
